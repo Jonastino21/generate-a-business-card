@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/generate-a-business-card/static/css/main.397d38c6.css",
+    "main.js": "/generate-a-business-card/static/js/main.ab7105c2.js",
+    "static/js/703.2e93363d.chunk.js": "/generate-a-business-card/static/js/703.2e93363d.chunk.js",
+    "static/js/24.43c5f4b7.chunk.js": "/generate-a-business-card/static/js/24.43c5f4b7.chunk.js",
+    "static/media/carte.png": "/generate-a-business-card/static/media/carte.5aa4ab87e6c0bcafbc56.png",
+    "static/media/tsik.png": "/generate-a-business-card/static/media/tsik.4f459208ed5d8ba4a5a7.png",
+    "static/media/logo.svg": "/generate-a-business-card/static/media/logo.fa1fa1478d26bf403219b8cea0c30945.svg",
+    "index.html": "/generate-a-business-card/index.html",
+    "main.397d38c6.css.map": "/generate-a-business-card/static/css/main.397d38c6.css.map",
+    "main.ab7105c2.js.map": "/generate-a-business-card/static/js/main.ab7105c2.js.map",
+    "703.2e93363d.chunk.js.map": "/generate-a-business-card/static/js/703.2e93363d.chunk.js.map",
+    "24.43c5f4b7.chunk.js.map": "/generate-a-business-card/static/js/24.43c5f4b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397d38c6.css",
+    "static/js/main.ab7105c2.js"
+  ]
+}
